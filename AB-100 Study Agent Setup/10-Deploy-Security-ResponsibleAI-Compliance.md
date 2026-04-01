@@ -1,17 +1,17 @@
 # Notebook 10: Deploy — Security, Responsible AI, Governance & Compliance
 
-## NotebookLM Setup
+## Copilot Studio Agent Setup
 
-**Notebook title:** AB-100 | Deploy: Security, Responsible AI & Compliance
+**Agent:** AB-100 | Deploy: Security, Responsible AI & Compliance
 
-**Audio Overview Focus Prompt:**
+**System Instructions:**
 > "Focus on the six Microsoft responsible AI principles, how to design security and governance for AI agents, how to detect and mitigate prompt injection and other AI-specific vulnerabilities, how to design access controls on grounding data and model tuning, how to validate data residency compliance, and how to design audit trails for changes to models and data."
 
-**Suggested audio formats to generate:**
-- Standard: Responsible AI principles and how they apply to agent design
-- Extended: Deep dive on agent security threats — prompt injection, XPIA, jailbreaking, and mitigations
-- Debate: Governance controls vs. developer agility — where to draw the line
-- Quiz: Test yourself on responsible AI principles and security mitigations
+**Suggested Topics to create:**
+- *Responsible AI Principles Quiz* — trigger: "quiz me on responsible AI" — agent presents an agent design scenario and asks which principle is at risk
+- *Threat Mitigation Advisor* — trigger: "identify my agent's security risks" — agent walks through the threat taxonomy and asks about the agent's design
+- *Data Residency Checklist* — trigger: "check my data residency compliance" — agent runs through the 4-point checklist
+- *Audit Trail Designer* — trigger: "design my audit trail" — agent explains what must be logged for models, data, and conversations
 
 ---
 

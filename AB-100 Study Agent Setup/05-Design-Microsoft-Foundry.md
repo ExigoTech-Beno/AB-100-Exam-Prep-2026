@@ -1,16 +1,17 @@
 # Notebook 5: Design — Microsoft Foundry
 
-## NotebookLM Setup
+## Copilot Studio Agent Setup
 
-**Notebook title:** AB-100 | Design: Microsoft Foundry
+**Agent:** AB-100 | Design: Microsoft Foundry
 
-**Audio Overview Focus Prompt:**
+**System Instructions:**
 > "Focus on Microsoft Foundry Agent Service capabilities, how to build and evaluate agents in Foundry, the model catalog and how to select models, how the model router works, how to fine-tune custom AI models, and how to design AI solutions using custom models in Microsoft Foundry."
 
-**Suggested audio formats to generate:**
-- Standard: Foundry overview — what it is, key capabilities, when to use it
-- Extended: Deep dive on model evaluation, fine-tuning, and observability
-- Quiz: Test yourself on Foundry tools, model selection, and agent design choices
+**Suggested Topics to create:**
+- *Foundry vs Copilot Studio* — trigger: "foundry or copilot studio" — agent asks about requirements and recommends
+- *Foundry Tools Quiz* — trigger: "quiz me on foundry tools" — agent tests knowledge of code interpreter, file search, Bing grounding, function calling
+- *Model Evaluation Practice* — trigger: "explain foundry evaluation metrics" — agent walks through groundedness, coherence, relevance, safety
+- *Fine-Tuning Decision* — trigger: "when should I fine-tune a model" — agent walks through the decision criteria
 
 ---
 

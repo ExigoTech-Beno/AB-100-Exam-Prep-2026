@@ -1,16 +1,17 @@
 # Notebook 6: Design — Microsoft 365 Copilot & Dynamics 365 AI
 
-## NotebookLM Setup
+## Copilot Studio Agent Setup
 
-**Notebook title:** AB-100 | Design: M365 Copilot & Dynamics 365 AI
+**Agent:** AB-100 | Design: M365 Copilot & Dynamics 365 AI
 
-**Audio Overview Focus Prompt:**
+**System Instructions:**
 > "Focus on the key Copilot and AI features across Dynamics 365 Sales, Customer Service, Finance, Supply Chain, and Contact Center, how to extend Microsoft 365 Copilot using declarative agents and plugins, how to configure Microsoft 365 Copilot for Sales and Copilot for Service, and how to propose prebuilt agents for business scenarios."
 
-**Suggested audio formats to generate:**
-- Standard: Overview of AI features across the Dynamics 365 family
-- Extended: Deep dive on M365 Copilot extensibility — declarative agents, plugins, connectors
-- Quiz: Test yourself on which Copilot feature applies to which Dynamics 365 app
+**Suggested Topics to create:**
+- *D365 Copilot Feature Quiz* — trigger: "quiz me on Dynamics 365 copilot features" — agent presents app scenarios and asks which feature applies
+- *M365 Extensibility Advisor* — trigger: "how do I extend M365 Copilot" — agent maps the requirement to declarative agent, plugin, MCP plugin, or graph connector
+- *Copilot for Sales vs Service* — trigger: "sales versus service copilot" — agent compares configuration and capabilities
+- *F&O Knowledge Sources* — trigger: "finance and operations knowledge sources" — agent explains in-app help and MCP integration
 
 ---
 

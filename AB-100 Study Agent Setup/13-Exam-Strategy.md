@@ -1,10 +1,10 @@
 # Notebook 13 (Extra): Exam Strategy & Readiness
 
-## NotebookLM Setup
+## Copilot Studio Agent Setup
 
-**Notebook title:** AB-100 | Extra: Exam Strategy & Readiness
+**Agent:** AB-100 | Extra: Exam Strategy & Readiness
 
-**Audio Overview Focus Prompt:**
+**System Instructions:**
 > "Focus on strategies for approaching the AB-100 exam, how to read and interpret scenario-based questions, key comparison frameworks for platform selection and design decisions, the most commonly tested concepts across all three exam domains, and how to eliminate wrong answers by applying architect-level thinking to AI-powered business solution scenarios."
 
 **Suggested audio formats to generate:**

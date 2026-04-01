@@ -1,16 +1,17 @@
 # Notebook 2: Plan — Platform Selection & Agent Strategy
 
-## NotebookLM Setup
+## Copilot Studio Agent Setup
 
-**Notebook title:** AB-100 | Plan: Platform Selection & Agent Strategy
+**Agent:** AB-100 | Plan: Platform Selection & Agent Strategy
 
-**Audio Overview Focus Prompt:**
+**System Instructions:**
 > "Focus on the decision criteria for when to use Copilot Studio versus Microsoft Foundry, when to build custom agents versus extending Microsoft 365 Copilot, when custom AI models are needed, how to design a multi-agent solution, and how to develop use cases for prebuilt and customized small language models."
 
-**Suggested audio formats to generate:**
-- Standard: Decision framework overview (Copilot Studio vs. Foundry vs. M365 extensibility)
-- Extended: Deep dive on multi-agent solution design and SLM use cases
-- Debate: Arguments for build vs. buy vs. extend
+**Suggested Topics to create:**
+- *Platform Decision* — trigger: "help me choose a platform" — agent asks clarifying questions and recommends Copilot Studio, Foundry, or M365 extensibility
+- *Build vs Buy vs Extend* — trigger: "build buy or extend" — agent presents a scenario and asks for the recommendation
+- *SLM Use Cases* — trigger: "when should I use an SLM" — agent explains Phi-4 use cases vs LLMs
+- *Multi-Agent Design Quiz* — trigger: "quiz me on multi-agent patterns" — agent asks scenario questions
 
 ---
 

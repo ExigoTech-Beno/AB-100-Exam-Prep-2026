@@ -1,16 +1,17 @@
 # Notebook 7: Design — Power Platform AI & Well-Architected Framework
 
-## NotebookLM Setup
+## Copilot Studio Agent Setup
 
-**Notebook title:** AB-100 | Design: Power Platform AI & Well-Architected
+**Agent:** AB-100 | Design: Power Platform AI & Well-Architected
 
-**Audio Overview Focus Prompt:**
+**System Instructions:**
 > "Focus on the Power Platform Well-Architected Framework applied to intelligent application workloads, how to design AI components in Power Apps canvas apps, the AI hub in Power Platform, how to use Copilot features in Power Automate and Power Apps, and the responsible AI design principles for Power Platform intelligent applications."
 
-**Suggested audio formats to generate:**
-- Standard: Power Platform WAF pillars applied to AI workloads
-- Extended: Deep dive on designing AI-first canvas apps and intelligent workloads
-- Quiz: Test yourself on which WAF pillar applies to which scenario
+**Suggested Topics to create:**
+- *WAF Pillar Quiz* — trigger: "quiz me on the well-architected framework" — agent presents AI workload scenarios and asks which pillar applies
+- *Canvas App AI Design* — trigger: "add AI to a canvas app" — agent walks through options (Copilot control, agent feed, AI Builder)
+- *AI Hub Explainer* — trigger: "what is the AI hub" — agent explains Power Platform AI hub governance role
+- *Generative Pages vs Agent Feed* — trigger: "generative pages or agent feed" — agent compares the two approaches
 
 ---
 

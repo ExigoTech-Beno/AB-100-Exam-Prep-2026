@@ -1,16 +1,17 @@
 # Notebook 4: Design — MCP, A2A & Multi-Agent Orchestration
 
-## NotebookLM Setup
+## Copilot Studio Agent Setup
 
-**Notebook title:** AB-100 | Design: MCP, A2A & Multi-Agent Orchestration
+**Agent:** AB-100 | Design: MCP, A2A & Multi-Agent Orchestration
 
-**Audio Overview Focus Prompt:**
+**System Instructions:**
 > "Focus on how Model Context Protocol (MCP) works and how it is used to extend Copilot Studio agents, how Agent2Agent (A2A) protocol enables cross-platform agent communication, the key multi-agent orchestration patterns (orchestrator-subagent, workflow-oriented), and when to use each pattern."
 
-**Suggested audio formats to generate:**
-- Standard: MCP vs. A2A — what each does and when to use each
-- Extended: Deep dive on all multi-agent orchestration patterns with design trade-offs
-- Debate: MCP connectors vs. native connectors — when is MCP worth it?
+**Suggested Topics to create:**
+- *MCP vs A2A vs Native* — trigger: "explain MCP versus A2A" — agent compares all three with decision criteria
+- *Multi-Agent Pattern Quiz* — trigger: "quiz me on multi-agent patterns" — agent presents orchestration scenarios
+- *MCP Design Walkthrough* — trigger: "help me design an MCP integration" — agent steps through MCP components (resources, tools, prompts)
+- *Orchestration Trade-offs* — trigger: "orchestrator vs workflow pattern" — agent explains trade-offs with exam-relevant scenarios
 
 ---
 

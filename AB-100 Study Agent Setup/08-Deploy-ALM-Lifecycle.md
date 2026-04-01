@@ -1,16 +1,17 @@
 # Notebook 8: Deploy — ALM & Application Lifecycle Management
 
-## NotebookLM Setup
+## Copilot Studio Agent Setup
 
-**Notebook title:** AB-100 | Deploy: ALM & Lifecycle Management
+**Agent:** AB-100 | Deploy: ALM & Lifecycle Management
 
-**Audio Overview Focus Prompt:**
+**System Instructions:**
 > "Focus on the ALM process for Copilot Studio agents, Microsoft Foundry agents, custom AI models, and AI in Dynamics 365 apps — including solution packaging, environment strategy, pipeline deployment, source control, and how to design end-to-end ALM for agentic AI solutions."
 
-**Suggested audio formats to generate:**
-- Standard: ALM overview — solutions, pipelines, environments, source control
-- Extended: Deep dive on ALM per component type (Copilot Studio vs. Foundry vs. D365)
-- Quiz: Test yourself on ALM decisions for different agent component types
+**Suggested Topics to create:**
+- *ALM Component Quiz* — trigger: "quiz me on ALM" — agent presents a component type and asks for the correct ALM approach
+- *Environment Strategy Advisor* — trigger: "design my environment strategy" — agent walks through dev, test, production, sandbox considerations
+- *Solution Export Checklist* — trigger: "what is in a copilot studio solution" — agent lists what is and isn't included
+- *Data ALM Explainer* — trigger: "grounding data ALM" — agent explains versioning, schema management, and quality gates for grounding data
 
 ---
 

@@ -1,17 +1,17 @@
 # Notebook 1: Plan — AI Strategy & Cloud Adoption Framework
 
-## NotebookLM Setup
+## Copilot Studio Agent Setup
 
-**Notebook title:** AB-100 | Plan: AI Strategy & CAF
+**Agent:** AB-100 | Plan: AI Strategy & CAF
 
-**Audio Overview Focus Prompt:**
+**System Instructions:**
 > "Focus on how to assess requirements for AI-powered solutions including analyzing agent use cases and data readiness, the Cloud Adoption Framework AI adoption steps, what an AI Center of Excellence is and what roles it contains, how to design an AI strategy for business solutions, and how to select ROI criteria for an AI-powered solution."
 
-**Suggested audio formats to generate:**
-- Standard (5–6 min): General overview of the topic
-- Extended (8–10 min): Deep dive on CoE structure and ROI analysis
-- Extended (8–10 min): Deep dive on agent use case assessment and data readiness for grounding
-- Quiz/Critique: Challenge your understanding of CAF phases
+**Suggested Topics to create:**
+- *Quiz: CAF Phases* — trigger: "quiz me on CAF" — agent asks 5 scenario questions on AI adoption phases
+- *Explain CoE* — trigger: "what is an AI Center of Excellence" — agent explains roles and governance
+- *ROI Analysis Practice* — trigger: "help me practice ROI analysis" — agent walks through a sample business case
+- *Data Readiness Check* — trigger: "review my grounding data" — agent runs through the 5 grounding quality criteria
 
 ---
 

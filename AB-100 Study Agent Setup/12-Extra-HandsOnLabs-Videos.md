@@ -1,18 +1,18 @@
 # Notebook 12 (Extra): Hands-On Labs, Videos & Conference Sessions
 
-## NotebookLM Setup
+## Copilot Studio Agent Setup
 
-**Notebook title:** AB-100 | Extra: Labs, Videos & Conferences
+**Agent:** AB-100 | Extra: Labs, Videos & Conferences
 
-**Audio Overview Focus Prompt:**
+**System Instructions:**
 > "Focus on the key hands-on demonstrations and technical walkthroughs for Copilot Studio, Microsoft Foundry, and multi-agent solutions — covering autonomous agent building, MCP integration, model selection, ALM pipelines, and the latest AI features shown at Microsoft Ignite and Microsoft Build."
 
-**Suggested audio formats to generate:**
-- Standard: Overview of the key demos and what each teaches — use as a preview before watching
-- Extended: Deep dive on which labs and videos map to which exam skills
-- Brief: Quick recap of the most exam-relevant video content
+**Suggested Topics to create:**
+- *Lab Recommender* — trigger: "which lab should I do" — agent asks which exam skill you want to practice and recommends the right lab
+- *Video Preview* — trigger: "what does [video name] cover" — agent summarises a video and maps it to exam skills
+- *Skill Gap Finder* — trigger: "find my skill gaps" — agent walks through all three exam domains and asks confidence level for each skill
 
-> **Note:** NotebookLM can ingest YouTube video URLs directly and will use the transcript as a source. Add the YouTube links below directly as sources in your notebook.
+> **Note:** Copilot Studio can ingest YouTube video URLs directly and will use the transcript as a source. Add the YouTube links below directly as sources in your notebook.
 
 ---
 
@@ -21,7 +21,7 @@
 This notebook is different from the others — it collects all the *demonstrative* content (videos, labs, sample repos) in one place. Use it to:
 
 1. Get audio summaries of video content before watching, to decide what to prioritize
-2. Ask NotebookLM questions about specific demos ("What MCP servers were used in the Mechanics video?")
+2. Ask Copilot Studio questions about specific demos ("What MCP servers were used in the Mechanics video?")
 3. Cross-reference demo content with exam skills to identify gaps
 
 ---

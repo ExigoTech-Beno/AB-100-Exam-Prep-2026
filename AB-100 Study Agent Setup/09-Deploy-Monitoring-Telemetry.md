@@ -1,17 +1,17 @@
 # Notebook 9: Deploy — Monitoring, Telemetry, Testing & Performance
 
-## NotebookLM Setup
+## Copilot Studio Agent Setup
 
-**Notebook title:** AB-100 | Deploy: Monitoring, Telemetry & Testing
+**Agent:** AB-100 | Deploy: Monitoring, Telemetry & Testing
 
-**Audio Overview Focus Prompt:**
+**System Instructions:**
 > "Focus on the tools and processes for monitoring AI agents in production, how to interpret telemetry data from Application Insights and Microsoft Foundry, how to analyze agent performance metrics, how to use backlog and user feedback for continuous improvement, how to apply AI-based tools for issue identification and tuning, and how to design and manage the testing of AI-powered solutions including validation criteria for custom models and test case strategy."
 
-**Suggested audio formats to generate:**
-- Standard: Overview of monitoring stack for AI agents (Application Insights, Foundry observability)
-- Extended: Deep dive on interpreting telemetry — what metrics matter and what actions they drive
-- Extended: Deep dive on testing strategy — validation criteria, test case design, Copilot-assisted testing
-- Quiz: Test yourself on monitoring tools, metrics, and tuning approaches
+**Suggested Topics to create:**
+- *Metrics Interpreter* — trigger: "interpret my agent metrics" — agent explains what low resolution rate, high escalation rate, or poor groundedness scores mean and what to do
+- *Monitoring Stack Quiz* — trigger: "quiz me on monitoring tools" — agent tests knowledge of Application Insights, Foundry Observability, and Copilot Studio analytics
+- *Continuous Improvement Walkthrough* — trigger: "improve my agent" — agent steps through the 7-step improvement loop
+- *Testing Strategy Builder* — trigger: "build a testing strategy" — agent asks about the agent type and generates appropriate test types
 
 ---
 

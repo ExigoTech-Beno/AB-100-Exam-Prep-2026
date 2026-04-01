@@ -1,16 +1,17 @@
 # Notebook 3: Design — Copilot Studio Core
 
-## NotebookLM Setup
+## Copilot Studio Agent Setup
 
-**Notebook title:** AB-100 | Design: Copilot Studio Core
+**Agent:** AB-100 | Design: Copilot Studio Core
 
-**Audio Overview Focus Prompt:**
+**System Instructions:**
 > "Focus on how to design topics, actions, and tools in Copilot Studio, how generative orchestration works and when to use it versus standard NLP, how to design autonomous agents with triggers and guardrails, how knowledge sources and RAG work, and how to design prompt and response agents, task agents, and autonomous agents."
 
-**Suggested audio formats to generate:**
-- Standard: Overview of Copilot Studio agent types and design patterns
-- Extended: Deep dive on generative orchestration vs. standard topics
-- Quiz: Test yourself on knowledge source types and agent design choices
+**Suggested Topics to create:**
+- *Agent Type Selector* — trigger: "which agent type should I use" — agent asks about the use case and recommends task, autonomous, or prompt/response
+- *Orchestration Mode Quiz* — trigger: "quiz me on orchestration modes" — agent presents scenarios for NLP vs CLU vs generative orchestration
+- *Knowledge Source Advisor* — trigger: "what knowledge source should I use" — agent maps the data type to the right source
+- *Autonomous Agent Design* — trigger: "design an autonomous agent" — agent walks through trigger, instructions, tools, and guardrails
 
 ---
 

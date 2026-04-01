@@ -1,16 +1,17 @@
 # Notebook 11 (Extra): Prompt Engineering, Language Models & Model Selection
 
-## NotebookLM Setup
+## Copilot Studio Agent Setup
 
-**Notebook title:** AB-100 | Extra: Prompt Engineering & Language Models
+**Agent:** AB-100 | Extra: Prompt Engineering & Language Models
 
-**Audio Overview Focus Prompt:**
+**System Instructions:**
 > "Focus on prompt engineering techniques and best practices for AI-powered business solutions, how to build a prompt library, the use of few-shot learning, chain-of-thought, and system message design, how to evaluate grounding data quality, how to select between large and small language models, and how to use generative AI and knowledge sources effectively in agents."
 
-**Suggested audio formats to generate:**
-- Standard: Core prompt engineering techniques architects must know
-- Extended: Deep dive on system message design, few-shot examples, and prompt library structure
-- Quiz: Test yourself on which prompt technique applies to which scenario
+**Suggested Topics to create:**
+- *Prompt Technique Selector* — trigger: "which prompt technique should I use" — agent asks about the task and recommends zero-shot, few-shot, chain-of-thought, or grounding
+- *System Message Designer* — trigger: "help me write a system message" — agent walks through role, tone, constraints, and output format
+- *Prompt Library Builder* — trigger: "build a prompt library" — agent explains the 7 components of a well-structured prompt library entry
+- *LLM vs SLM Decision* — trigger: "LLM or SLM" — agent asks about the use case and recommends based on the decision criteria
 
 ---
 
